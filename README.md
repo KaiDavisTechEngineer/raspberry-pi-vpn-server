@@ -149,7 +149,6 @@ Self-hosted WireGuard VPN on Raspberry Pi for secure remote access
   ```Bash
   sudo wg
   ```
-<img width="645" height="1398" alt="IMG_4824" src="https://github.com/user-attachments/assets/8c68166b-5df4-48ad-a4fc-d598dcbca981" />
 
   ## Testing and Performance
 

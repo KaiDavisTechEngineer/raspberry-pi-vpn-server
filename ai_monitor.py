@@ -1,3 +1,8 @@
+"""
+AI Network Anomaly Detection System
+Author: Kai Davis
+Description: Detects unusual network activity using anomaly detection on a Raspberry Pi.
+"""
 import psutil
 import time
 import pandas as pd
